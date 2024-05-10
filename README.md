@@ -29,3 +29,5 @@ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/install-
 ```powershell
 (Invoke-WebRequest -Uri https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py -UseBasicParsing).Content | python -
 ```
+
+<add bad code>
